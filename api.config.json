@@ -1,0 +1,8 @@
+{
+    "endpoint": "https://api.infoeducatie.ro/v1",
+    "current": "/current",
+    "editions": "/editions?has_contestants=true",
+    "talks": "/talks",
+    "news": "/news",
+    "alumni": "/alumni"
+}
